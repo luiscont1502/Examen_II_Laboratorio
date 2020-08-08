@@ -8,6 +8,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+.card1{
+  width: 400;
+  height: auto;
+  background-color: aqua;
+}
 article,
 aside,
 details,
